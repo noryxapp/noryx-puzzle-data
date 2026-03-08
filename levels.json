@@ -1,10 +1,10 @@
 {
   "levels": [
     {
-      "id": 1,
-      "image": "https://picsum.photos/1200",
-      "grid": 4
-    },
+"id": 1,
+"image": "...",
+"grid": 6
+},
     {
       "id": 2,
       "image": "https://picsum.photos/1200",
