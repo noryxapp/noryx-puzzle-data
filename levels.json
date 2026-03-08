@@ -2,15 +2,18 @@
   "levels": [
     {
       "id": 1,
-      "image": "https://picsum.photos/1200"
+      "image": "https://picsum.photos/1200",
+      "grid": 4
     },
     {
       "id": 2,
-      "image": "https://picsum.photos/1200"
+      "image": "https://picsum.photos/1200",
+      "grid": 4
     },
     {
       "id": 3,
-      "image": "https://picsum.photos/1200"
+      "image": "https://picsum.photos/1200",
+      "grid": 6
     }
   ]
 }
